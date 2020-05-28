@@ -4,13 +4,23 @@ This is a welcome message to all new plugin authors in the Capacitor Community o
 
 First of all, welcome! We look forward to having your awesome plugin and contributions in this organization and are available for help if need be (easiest way is to ping one of us on Twitter).
 
+## Registring with the Capacitor team
+
+Before following any of the steps below, make sure you have been granted access to the `capacitor-community` GitHub org and `@capacitor-community` npm scope.
+
 ## Project Setup
 
 One of the goals of the Capacitor Community initiative is to have a set of github repos that follow a set of conventions around READMES, package naming
 
+### Getting Started
+
+When starting a new repo in the `capacitor-community` org, make sure to select using the `capacitor-community/.github` template repo for your new project. This will pre-populate your project with a set of ready to go housekeeping items.
+
 ### License
 
 We _strongly_ encourage your project use the MIT license. Apache 2 is also acceptable. Any other license must be approved with the Capacitor core team in advance to avoid licensing surprises.
+
+Your next step after creating the project should be to update the `LICENSE` file and fill in the correct year and copyright holder information.
 
 ### README format
 
