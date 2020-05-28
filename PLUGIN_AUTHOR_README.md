@@ -8,6 +8,10 @@ First of all, welcome! We look forward to having your awesome plugin and contrib
 
 One of the goals of the Capacitor Community initiative is to have a set of github repos that follow a set of conventions around READMES, package naming
 
+### License
+
+We _strongly_ encourage your project use the MIT license. Apache 2 is also acceptable. Any other license must be approved with the Capacitor core team in advance to avoid licensing surprises.
+
 ### README format
 
 ### Package Naming
