@@ -9,13 +9,13 @@ After reading and acting on this feel free to delete it from the repo. You can a
 
 ----
 
-0. [Start here](#setup)
-1. [Conventions](#conventions)
-2. Project Setup
-3. Project Licensing
-4. Publishing
-5. Recognizing Contributors
-6. Where to Get Help
+0. [Start here](#0-start-here)
+1. [Conventions](#1-conventions)
+2. [Project Setup](#2-project-setup)
+3. [Project Licensing](#3-project-licensing)
+4. [Publishing](#4-publishing)
+5. [Recognizing Contributors](#5-recognizing-contributors)
+6. [Where to Get Help](#6-where-to-get-help)
 
 ## 0. Start here
 
